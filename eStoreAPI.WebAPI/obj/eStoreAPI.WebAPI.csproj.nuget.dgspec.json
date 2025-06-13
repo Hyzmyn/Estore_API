@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Data\\eStoreAPI.Data.csproj": {
+    "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Data\\eStoreAPI.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Data\\eStoreAPI.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Data\\eStoreAPI.Data.csproj",
         "projectName": "eStoreAPI.Data",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Data\\eStoreAPI.Data.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Data\\eStoreAPI.Data.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Data\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\eStoreAPI.Models.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\eStoreAPI.Models.csproj"
+              "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\eStoreAPI.Models.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\eStoreAPI.Models.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\eStoreAPI.Models.csproj": {
+    "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\eStoreAPI.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\eStoreAPI.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\eStoreAPI.Models.csproj",
         "projectName": "eStoreAPI.Models",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\eStoreAPI.Models.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\eStoreAPI.Models.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -164,14 +164,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj": {
+    "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj",
         "projectName": "eStoreAPI.WebAPI",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -192,11 +192,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Data\\eStoreAPI.Data.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Data\\eStoreAPI.Data.csproj"
+              "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Data\\eStoreAPI.Data.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Data\\eStoreAPI.Data.csproj"
               },
-              "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\eStoreAPI.Models.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\eStoreAPI.Models.csproj"
+              "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\eStoreAPI.Models.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\eStoreAPI.Models.csproj"
               }
             }
           }

@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estoreapi.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|solutionrelative:estoreapi.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estoreapi.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estore_api\\estoreapi.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|solutionrelative:estoreapi.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estoreapi.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estore_api\\estoreapi.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|solutionrelative:estoreapi.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estore_api\\estoreapi.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|solutionrelative:estoreapi.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70A4880A-50E0-47C1-A276-2F1B4CB1FB95}|eStoreAPI.Data\\eStoreAPI.Data.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estoreapi.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70A4880A-50E0-47C1-A276-2F1B4CB1FB95}|eStoreAPI.Data\\eStoreAPI.Data.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estore_api\\estoreapi.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70A4880A-50E0-47C1-A276-2F1B4CB1FB95}|eStoreAPI.Data\\eStoreAPI.Data.csproj|solutionrelative:estoreapi.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70A4880A-50E0-47C1-A276-2F1B4CB1FB95}|eStoreAPI.Data\\eStoreAPI.Data.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estoreapi.data\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70A4880A-50E0-47C1-A276-2F1B4CB1FB95}|eStoreAPI.Data\\eStoreAPI.Data.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estore_api\\estoreapi.data\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70A4880A-50E0-47C1-A276-2F1B4CB1FB95}|eStoreAPI.Data\\eStoreAPI.Data.csproj|solutionrelative:estoreapi.data\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7A39CE4-A60C-44C5-8C39-CE4C741A5CFB}|eStoreAPI.Models\\eStoreAPI.Models.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estoreapi.models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7A39CE4-A60C-44C5-8C39-CE4C741A5CFB}|eStoreAPI.Models\\eStoreAPI.Models.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estore_api\\estoreapi.models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7A39CE4-A60C-44C5-8C39-CE4C741A5CFB}|eStoreAPI.Models\\eStoreAPI.Models.csproj|solutionrelative:estoreapi.models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70A4880A-50E0-47C1-A276-2F1B4CB1FB95}|eStoreAPI.Data\\eStoreAPI.Data.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estoreapi.data\\estoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70A4880A-50E0-47C1-A276-2F1B4CB1FB95}|eStoreAPI.Data\\eStoreAPI.Data.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estore_api\\estoreapi.data\\estoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70A4880A-50E0-47C1-A276-2F1B4CB1FB95}|eStoreAPI.Data\\eStoreAPI.Data.csproj|solutionrelative:estoreapi.data\\estoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7A39CE4-A60C-44C5-8C39-CE4C741A5CFB}|eStoreAPI.Models\\eStoreAPI.Models.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estoreapi.models\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7A39CE4-A60C-44C5-8C39-CE4C741A5CFB}|eStoreAPI.Models\\eStoreAPI.Models.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estore_api\\estoreapi.models\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7A39CE4-A60C-44C5-8C39-CE4C741A5CFB}|eStoreAPI.Models\\eStoreAPI.Models.csproj|solutionrelative:estoreapi.models\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7A39CE4-A60C-44C5-8C39-CE4C741A5CFB}|eStoreAPI.Models\\eStoreAPI.Models.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estoreapi.models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7A39CE4-A60C-44C5-8C39-CE4C741A5CFB}|eStoreAPI.Models\\eStoreAPI.Models.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estore_api\\estoreapi.models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7A39CE4-A60C-44C5-8C39-CE4C741A5CFB}|eStoreAPI.Models\\eStoreAPI.Models.csproj|solutionrelative:estoreapi.models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7A39CE4-A60C-44C5-8C39-CE4C741A5CFB}|eStoreAPI.Models\\eStoreAPI.Models.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estoreapi.models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7A39CE4-A60C-44C5-8C39-CE4C741A5CFB}|eStoreAPI.Models\\eStoreAPI.Models.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estore_api\\estoreapi.models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7A39CE4-A60C-44C5-8C39-CE4C741A5CFB}|eStoreAPI.Models\\eStoreAPI.Models.csproj|solutionrelative:estoreapi.models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7A39CE4-A60C-44C5-8C39-CE4C741A5CFB}|eStoreAPI.Models\\eStoreAPI.Models.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estoreapi.models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7A39CE4-A60C-44C5-8C39-CE4C741A5CFB}|eStoreAPI.Models\\eStoreAPI.Models.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estore_api\\estoreapi.models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7A39CE4-A60C-44C5-8C39-CE4C741A5CFB}|eStoreAPI.Models\\eStoreAPI.Models.csproj|solutionrelative:estoreapi.models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7A39CE4-A60C-44C5-8C39-CE4C741A5CFB}|eStoreAPI.Models\\eStoreAPI.Models.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estoreapi.models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7A39CE4-A60C-44C5-8C39-CE4C741A5CFB}|eStoreAPI.Models\\eStoreAPI.Models.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estore_api\\estoreapi.models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7A39CE4-A60C-44C5-8C39-CE4C741A5CFB}|eStoreAPI.Models\\eStoreAPI.Models.csproj|solutionrelative:estoreapi.models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,11 +70,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.WebAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "eStoreAPI.WebAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.WebAPI\\appsettings.json",
               "RelativeToolTip": "eStoreAPI.WebAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -83,11 +83,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.WebAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "eStoreAPI.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.WebAPI\\Program.cs",
               "RelativeToolTip": "eStoreAPI.WebAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,131 +98,121 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.WebAPI\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.WebAPI\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "eStoreAPI.WebAPI\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.WebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.WebAPI\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "eStoreAPI.WebAPI\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T21:23:24.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T21:23:24.134Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Data\\Repositories\\ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Data\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "eStoreAPI.Data\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Data\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Data\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "eStoreAPI.Data\\Repositories\\ProductRepository.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAUwD4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T21:22:53.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T21:22:53.449Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Data\\Repositories\\IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Data\\Repositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "eStoreAPI.Data\\Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Data\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Data\\Repositories\\IProductRepository.cs",
               "RelativeToolTip": "eStoreAPI.Data\\Repositories\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T21:22:21.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T21:22:21.764Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\DTOs\\ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\DTOs\\ProductDto.cs",
               "RelativeDocumentMoniker": "eStoreAPI.Models\\DTOs\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\DTOs\\ProductDto.cs",
               "RelativeToolTip": "eStoreAPI.Models\\DTOs\\ProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T21:21:37.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T21:21:37.117Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "EStoreDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Data\\EStoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Data\\EStoreDbContext.cs",
               "RelativeDocumentMoniker": "eStoreAPI.Data\\EStoreDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Data\\EStoreDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Data\\EStoreDbContext.cs",
               "RelativeToolTip": "eStoreAPI.Data\\EStoreDbContext.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwCQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T21:20:09.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T21:20:09.227Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "OrderDetail.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\Entities\\OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\Entities\\OrderDetail.cs",
               "RelativeDocumentMoniker": "eStoreAPI.Models\\Entities\\OrderDetail.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\Entities\\OrderDetail.cs",
               "RelativeToolTip": "eStoreAPI.Models\\Entities\\OrderDetail.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T21:19:27.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T21:19:27.66Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\Entities\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "eStoreAPI.Models\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\Entities\\Order.cs",
               "RelativeToolTip": "eStoreAPI.Models\\Entities\\Order.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T21:19:01.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T21:19:01.017Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\Entities\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "eStoreAPI.Models\\Entities\\Customer.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\Entities\\Customer.cs",
               "RelativeToolTip": "eStoreAPI.Models\\Entities\\Customer.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwBwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T21:18:17.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T21:18:17.259Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\Entities\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "eStoreAPI.Models\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\Entities\\Category.cs",
               "RelativeToolTip": "eStoreAPI.Models\\Entities\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T21:17:59.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T21:17:59.004Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\Entities\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "eStoreAPI.Models\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\eStoreAPI.Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\Entities\\Product.cs",
               "RelativeToolTip": "eStoreAPI.Models\\Entities\\Product.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwCAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T21:17:34.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T21:17:34.083Z"
             }
           ]
         }
