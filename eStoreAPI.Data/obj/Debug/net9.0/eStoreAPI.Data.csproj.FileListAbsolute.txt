@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Data\bin\Debug\net9.0\eStoreAPI.Data.deps.json
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Data\bin\Debug\net9.0\eStoreAPI.Data.dll
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Data\bin\Debug\net9.0\eStoreAPI.Data.pdb
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Data\bin\Debug\net9.0\eStoreAPI.Models.dll
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Data\bin\Debug\net9.0\eStoreAPI.Models.pdb
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Data\obj\Debug\net9.0\eStoreAPI.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Data\obj\Debug\net9.0\eStoreAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Data\obj\Debug\net9.0\eStoreAPI.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Data\obj\Debug\net9.0\eStoreAPI.Data.AssemblyInfo.cs
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Data\obj\Debug\net9.0\eStoreAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Data\obj\Debug\net9.0\eStoreAP.A3605C96.Up2Date
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Data\obj\Debug\net9.0\eStoreAPI.Data.dll
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Data\obj\Debug\net9.0\refint\eStoreAPI.Data.dll
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Data\obj\Debug\net9.0\eStoreAPI.Data.pdb
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Data\obj\Debug\net9.0\ref\eStoreAPI.Data.dll

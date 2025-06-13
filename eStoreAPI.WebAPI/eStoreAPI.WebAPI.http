@@ -1,0 +1,6 @@
+@eStoreAPI.WebAPI_HostAddress = http://localhost:5189
+
+GET {{eStoreAPI.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
