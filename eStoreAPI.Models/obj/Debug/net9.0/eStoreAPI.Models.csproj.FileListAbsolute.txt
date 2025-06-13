@@ -9,3 +9,15 @@ C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Models\obj\Debug\net9.0\eSt
 C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Models\obj\Debug\net9.0\refint\eStoreAPI.Models.dll
 C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Models\obj\Debug\net9.0\eStoreAPI.Models.pdb
 C:\Users\Admin\Desktop\gameunity\eStoreAPI\eStoreAPI.Models\obj\Debug\net9.0\ref\eStoreAPI.Models.dll
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\Estore_API\eStoreAPI.Models\bin\Debug\net9.0\eStoreAPI.Models.deps.json
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\Estore_API\eStoreAPI.Models\bin\Debug\net9.0\eStoreAPI.Models.dll
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\Estore_API\eStoreAPI.Models\bin\Debug\net9.0\eStoreAPI.Models.pdb
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\Estore_API\eStoreAPI.Models\obj\Debug\net9.0\eStoreAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\Estore_API\eStoreAPI.Models\obj\Debug\net9.0\eStoreAPI.Models.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\Estore_API\eStoreAPI.Models\obj\Debug\net9.0\eStoreAPI.Models.AssemblyInfo.cs
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\Estore_API\eStoreAPI.Models\obj\Debug\net9.0\eStoreAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\Estore_API\eStoreAPI.Models\obj\Debug\net9.0\eStoreAPI.Models.sourcelink.json
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\Estore_API\eStoreAPI.Models\obj\Debug\net9.0\eStoreAPI.Models.dll
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\Estore_API\eStoreAPI.Models\obj\Debug\net9.0\refint\eStoreAPI.Models.dll
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\Estore_API\eStoreAPI.Models\obj\Debug\net9.0\eStoreAPI.Models.pdb
+C:\Users\Admin\Desktop\gameunity\eStoreAPI\Estore_API\eStoreAPI.Models\obj\Debug\net9.0\ref\eStoreAPI.Models.dll

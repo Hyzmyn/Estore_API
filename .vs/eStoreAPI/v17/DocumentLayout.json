@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estore_api\\estoreapi.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|solutionrelative:estoreapi.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estore_api\\estoreapi.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|solutionrelative:estoreapi.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estore_api\\estoreapi.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|solutionrelative:estoreapi.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estore_api\\estoreapi.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|solutionrelative:estoreapi.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estore_api\\estoreapi.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D43F98C6-80C4-442C-BB7F-3A126D7870E3}|eStoreAPI.WebAPI\\eStoreAPI.WebAPI.csproj|solutionrelative:estoreapi.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70A4880A-50E0-47C1-A276-2F1B4CB1FB95}|eStoreAPI.Data\\eStoreAPI.Data.csproj|c:\\users\\admin\\desktop\\gameunity\\estoreapi\\estore_api\\estoreapi.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +74,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "eStoreAPI.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "eStoreAPI.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T21:46:31.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "eStoreAPI.WebAPI\\appsettings.json",
@@ -78,12 +95,11 @@
               "RelativeToolTip": "eStoreAPI.WebAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-13T21:24:01.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T21:24:01.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "eStoreAPI.WebAPI\\Program.cs",
@@ -104,11 +120,12 @@
               "RelativeToolTip": "eStoreAPI.WebAPI\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T21:23:24.134Z"
+              "WhenOpened": "2025-06-13T21:23:24.134Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Data\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "eStoreAPI.Data\\Repositories\\ProductRepository.cs",
@@ -120,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Data\\Repositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "eStoreAPI.Data\\Repositories\\IProductRepository.cs",
@@ -132,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\DTOs\\ProductDto.cs",
               "RelativeDocumentMoniker": "eStoreAPI.Models\\DTOs\\ProductDto.cs",
@@ -144,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EStoreDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Data\\EStoreDbContext.cs",
               "RelativeDocumentMoniker": "eStoreAPI.Data\\EStoreDbContext.cs",
@@ -156,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\Entities\\OrderDetail.cs",
               "RelativeDocumentMoniker": "eStoreAPI.Models\\Entities\\OrderDetail.cs",
@@ -168,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "eStoreAPI.Models\\Entities\\Order.cs",
@@ -180,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "eStoreAPI.Models\\Entities\\Customer.cs",
@@ -192,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "eStoreAPI.Models\\Entities\\Category.cs",
@@ -204,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\gameunity\\eStoreAPI\\Estore_API\\eStoreAPI.Models\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "eStoreAPI.Models\\Entities\\Product.cs",
